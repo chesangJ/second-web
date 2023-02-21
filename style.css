@@ -1,0 +1,202 @@
+.container{
+    border-radius: 1%;
+    border-color: dodgerblue;
+    border-style: solid;
+    border-width: 60px;
+}
+
+
+
+
+
+
+
+.logo{
+    width: 20%;
+    padding-left: 1%;
+    float: left;
+}
+.navigation{
+    background-color: white;
+    overflow: hidden; 
+    float: right;
+}
+.navigation a { 
+    display: inline-block;
+    color: black;
+    text-align: center;
+    padding: 0 10px 0 10px;
+    font-size: 14px;
+    text-decoration: none;
+}
+.words{
+    margin: 0 auto;
+    padding-top: 5%;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.green{
+    color: lawngreen;
+}
+.blue{
+    color: lightskyblue;
+}
+.text{
+    padding-top: 0%;
+    text-align: center;
+    
+
+
+}
+.button{
+    background-color: dodgerblue;
+    color: whitesmoke;
+    padding: 10px;
+}
+
+
+.images{
+    width: 100%;
+}
+.dot{
+padding-left: 20px;
+}
+
+.logos2{
+    display: inline-block;
+    width: 25%;
+    height: 25%;
+    display: flex;
+    padding: 0 10px 0;
+    
+}
+.details{
+    padding: 0% 2%;
+    margin: 0%;
+}
+.button2{
+    background-color: blue;
+    color: white;
+margin-top: none;
+    width: 5%;
+    height: 10%;
+    padding: 0% 2%;
+    display: inline-block;
+    
+}
+
+.box1{
+    background-color: gainsboro;
+    width: 100px;
+    text-align: center;
+    color: white;
+    border-radius: 10px;
+    height: 100px;
+    padding: 5px;
+    margin-left: 1em;
+    border: 2pxborder solid pink;
+
+
+    
+
+}
+.boxa{ background-color: aquamarine;
+    width: 100px;
+    text-align: center;
+    color: white;
+    margin-top: none;
+    border-radius: 10px;
+    padding: 5px;
+    margin-left: 1em;
+    border: 2pxborder solid pink;
+    height: 100px;
+
+
+    
+
+
+}
+.box2{
+    border-style: solid;
+    background-color: pink;
+    width: 100px;
+    text-align: center;
+    color: white;
+    margin-top: none;
+    border-radius: 10px;
+    padding: 5px;
+    margin-left: 1em;
+    border: 2px border solid pink;
+    height: 100px;
+
+
+    
+}
+.box{
+    display: flex;
+    justify-content: space-between;
+    
+    margin-top: none;
+    
+    
+}
+
+.same{
+    padding: 0 2%;
+    margin: 0;
+    background-color: white;
+    
+}
+.unique{
+    padding: 0 2%;
+    margin: 0;
+    background-color: white;
+
+
+}
+.manage{
+    padding: 0 2%;
+    margin: 0;
+    background-color: white;
+
+
+}
+.extra{
+    display: flex;
+    justify-content: end;
+
+}
+.hr1{
+    background-color: blue;
+    padding: 1%;
+}
+.hr2{ background-color: rgba(255, 0, 0, 0.753);
+    padding: 1%;
+
+}
+.hr3{
+    background-color: green;
+    padding: 2%;
+
+}
+.Major{
+    margin-top: none;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+    
+
+
+
+
+
+
+
+
+
+    
+
+
